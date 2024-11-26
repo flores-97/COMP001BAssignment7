@@ -6,11 +6,25 @@
 *{
     background-color: black;
 }
+
+.intro{
+    text-align: center;
+}
+
 .question{
     text-align: center;
     background-color: gold;
     padding: 1em;
     color: antiquewhite;
+    float: left;
+}
+
+.anwser{
+    text-align: center;
+    background-color: gold;
+    padding: 1em;
+    color: antiquewhite;
+    float: right;
 }
 
 h1, h2, h3, p{
