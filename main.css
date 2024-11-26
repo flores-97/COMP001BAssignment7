@@ -32,3 +32,8 @@ footer{
     bottom: 15px;
     right: 15px;
 }
+.roboto-regular-italic {
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
